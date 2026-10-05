@@ -2,8 +2,8 @@
 class Chalk < Formula
   desc "Sandboxed, budget-capped Claude Code agent harness for GitHub and GitLab repos"
   homepage "https://github.com/khalaharvi/chalk"
-  url "https://github.com/khalaharvi/chalk/archive/refs/tags/v0.7.1.tar.gz"
-  sha256 "2263f216443a22599d0d15e9ea90d01ea21d8899b19a666899d4fe8ae8e400b2"
+  url "https://github.com/khalaharvi/chalk/archive/refs/tags/v0.8.0.tar.gz"
+  sha256 "e6fdb6b3311233dc7822e366571b46e5683f6468514c082270f3b71a1e66bd12"
   license "Apache-2.0"
   head "https://github.com/khalaharvi/chalk.git", branch: "main"
 
